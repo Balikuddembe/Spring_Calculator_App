@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-aop-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-aspects-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-beans-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-context-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-context-indexer-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-context-support-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-core-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-expression-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-instrument-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-jcl-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-jdbc-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-jms-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-messaging-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-orm-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-oxm-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-test-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-tx-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-web-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-webflux-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-webmvc-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/FS_java_phase3/spring/spring_files/spring-websocket-5.2.9.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
